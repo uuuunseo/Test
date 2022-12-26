@@ -1,19 +1,12 @@
-//
-//  ViewController.swift
-//  Test
-//
-//  Created by 정윤서 on 2022/12/26.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
+        self.view.backgroundColor = UIColor(red: 0.522, green: 0.722, blue: 0.796, alpha: 1)
     }
-
-
 }
+
 
